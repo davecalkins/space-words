@@ -1,0 +1,69 @@
+starting game
+initializing Allegro
+initializing graphics
+initializing font system
+initializing keyboard
+initializing mouse
+initializing timer
+initializing base sound
+initialization completed successfully
+loaded word 'the' sound 'data/word_the.ogg'
+loaded word 'of' sound 'data/word_of.ogg'
+loaded word 'and' sound 'data/word_and.ogg'
+loaded word 'a' sound 'data/word_a.ogg'
+loaded word 'to' sound 'data/word_to.ogg'
+loaded word 'in' sound 'data/word_in.ogg'
+loaded word 'is' sound 'data/word_is.ogg'
+loaded word 'you' sound 'data/word_you.ogg'
+loaded word 'that' sound 'data/word_that.ogg'
+loaded word 'it' sound 'data/word_it.ogg'
+loaded word 'he' sound 'data/word_he.ogg'
+loaded word 'was' sound 'data/word_was.ogg'
+loaded word 'for' sound 'data/word_for.ogg'
+loaded word 'on' sound 'data/word_on.ogg'
+loaded word 'are' sound 'data/word_are.ogg'
+loaded word 'as' sound 'data/word_as.ogg'
+loaded word 'with' sound 'data/word_with.ogg'
+loaded word 'his' sound 'data/word_his.ogg'
+loaded word 'they' sound 'data/word_they.ogg'
+loaded word 'I' sound 'data/word_I.ogg'
+loaded word 'at' sound 'data/word_at.ogg'
+loaded word 'be' sound 'data/word_be.ogg'
+loaded word 'this' sound 'data/word_this.ogg'
+loaded word 'have' sound 'data/word_have.ogg'
+loaded word 'from' sound 'data/word_from.ogg'
+loaded word 'or' sound 'data/word_or.ogg'
+loaded word 'one' sound 'data/word_one.ogg'
+loaded word 'had' sound 'data/word_had.ogg'
+loaded word 'by' sound 'data/word_by.ogg'
+loaded word 'words' sound 'data/word_words.ogg'
+loaded word 'but' sound 'data/word_but.ogg'
+loaded word 'not' sound 'data/word_not.ogg'
+loaded word 'what' sound 'data/word_what.ogg'
+loaded word 'all' sound 'data/word_all.ogg'
+loaded word 'were' sound 'data/word_were.ogg'
+loaded word 'we' sound 'data/word_we.ogg'
+loaded word 'your' sound 'data/word_your.ogg'
+loaded word 'when' sound 'data/word_when.ogg'
+loaded word 'can' sound 'data/word_can.ogg'
+loaded word 'said' sound 'data/word_said.ogg'
+loaded word 'there' sound 'data/word_there.ogg'
+loaded word 'use' sound 'data/word_use.ogg'
+loaded word 'an' sound 'data/word_an.ogg'
+loaded word 'each' sound 'data/word_each.ogg'
+loaded word 'which' sound 'data/word_which.ogg'
+loaded word 'she' sound 'data/word_she.ogg'
+loaded word 'do' sound 'data/word_do.ogg'
+loaded word 'how' sound 'data/word_how.ogg'
+loaded word 'their' sound 'data/word_their.ogg'
+loaded word 'if' sound 'data/word_if.ogg'
+loaded word 'up' sound 'data/word_up.ogg'
+loaded word 'will' sound 'data/word_will.ogg'
+loaded word 'other' sound 'data/word_other.ogg'
+loaded word 'about' sound 'data/word_about.ogg'
+loaded word 'many' sound 'data/word_many.ogg'
+loaded word 'out' sound 'data/word_out.ogg'
+reached the end of the words file
+destroying app resources
+shutting down engine
+game exiting

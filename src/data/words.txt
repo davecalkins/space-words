@@ -1,0 +1,69 @@
+#
+# contains the list of words used for the game.
+# one word per line.  for each word, there should be a corresponding
+# sound file named, word_<theword>.ogg
+#
+
+# from drill chart 1
+the
+of
+and
+a
+to
+in
+is
+you
+that
+it
+he
+was
+for
+on
+
+# from drill chart 2
+are
+as
+with
+his
+they
+I
+at
+be
+this
+have
+from
+or
+one
+had
+
+# from drill chart 3
+by
+words
+but
+not
+what
+all
+were
+we
+your
+when
+can
+said
+there
+use
+
+# from drill chart 4
+an
+each
+which
+she
+do
+how
+their
+if
+up
+will
+other
+about
+many
+out
